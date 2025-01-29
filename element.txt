@@ -1,1 +1,1 @@
-Carbon,iron
+Carbon,iron,magnesium,mercury,calcium
